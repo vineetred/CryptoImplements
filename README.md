@@ -1,7 +1,5 @@
 # Cryptographic Implementations
 
-Simple implementation of RSA and ElGamal.
-
 ## RSA 
 1. Language = Python 3.6.4
 2. To run the program, we have to first generate our public and private keys. To do this, just run the command
@@ -64,6 +62,9 @@ Simple implementation of RSA and ElGamal.
 9. To sign the hash instead of the message, run the command "hashing.py". This will, replace the message in the message.txt with the hash instead. Run the Sign script and you are good to go. To remove the hash, just edit the message.txt file again. 
 10. All the text files are in the parameters folder.
 
+
+## AES
+Barely works. I suggest you not use my implementation. Not the best idea.
 ## References for code
 1. Dhruv Agarwal, Vidur Singh, TS Harikrishnan, and Preetha Datta - Code References
 2. https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
