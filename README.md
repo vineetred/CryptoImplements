@@ -66,7 +66,7 @@
 ## AES
 Barely works. I suggest you not use my implementation. Not the best idea.
 ## References for code
-1. Dhruv Agarwal, Vidur Singh, TS Harikrishnan, and Preetha Datta - Code References
+1. Dhruv Agarwal, Vidur Singh, TS Harikrishnan, Preetha Datta and Debayan Gupta - Code References
 2. https://www.geeksforgeeks.org/rsa-algorithm-cryptography/
 3. https://rosettacode.org/wiki/RSA_code
 4. https://gist.github.com/JonCooperWorks/5314103 - A medium blog post repo
