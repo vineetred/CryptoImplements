@@ -158,12 +158,12 @@ def find_Y(point):
     else :
         raise Exception ("Y does not exist for given x =",point)
 
-############------------############------------
+#################################################################
 # FORMAT FOR THE POINTS = [x,y]
 # Always pass a list unless specified
 # Only find_Y() takes a single integer as a paramter
 # Can be converted to string by just placing the points in str([x,y])
-############------------############------------
+#################################################################
 
 #Question (a)
 # <-- THIS MUST BE DONE BEFORE DOING ANYTHING ELSE -->
